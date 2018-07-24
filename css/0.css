@@ -1,0 +1,12 @@
+button:focus {
+  outline: none; }
+
+.sample-component {
+  font-size: 20px;
+  font-size: 1.42857rem;
+  line-height: 28px;
+  line-height: 2rem;
+  margin: 15px;
+  margin: 1.07143rem;
+  display: block; }
+
